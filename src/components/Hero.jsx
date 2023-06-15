@@ -7,7 +7,7 @@ const Hero = () => {
         <img src={logo} alt="Sumz" className="w-28 object-contain"/>
         <button type="buttom" 
           onClick={() => window.open("https://github.com/AkamTemitope/aisummarizer")}
-          className="black_btn ">Github
+          className="black_btn ">GitHub
         </button>
       </nav>
       <h1 className="head_text">RapidSumm: An Open-Source Article Summarizer Powered by <br className="max-md:hidden"/>
